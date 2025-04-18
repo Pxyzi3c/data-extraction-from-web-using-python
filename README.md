@@ -87,7 +87,7 @@ sudo touch /etc/vsftpd.chroot_list
 
 ### **Test Connection**
 
-1. **Create a blank file for testing the upload.**
+1. **Create a blank notebook for testing the upload.**
 2. **Determine the IP address of your WSL environment:**  
     You can use either of the following commands:  
     ip a  
