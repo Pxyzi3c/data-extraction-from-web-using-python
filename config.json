@@ -41,7 +41,7 @@
         "PARAMS": {
             "names": [
                 "ent_num",
-                "alt_num",
+                "add_num",
                 "address",
                 "complete_address",
                 "country",
